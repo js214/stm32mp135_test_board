@@ -1,0 +1,7 @@
+.mxproject
+.project
+.settings
+mb-backups
+*.swp
+*.lck
+fp-info-cache
