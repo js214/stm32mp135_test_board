@@ -1,4 +1,4 @@
-# SR835 Firmware
+# Test board using STM32MP135
 
 (Work in progress!)
 
